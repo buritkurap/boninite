@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Curtis",
+    "age": 19,
+    "address": {
+        "street": "Austin Lock",
+        "city": "South Adamview",
+        "state": "Delaware",
+        "zip": "24743"
+    },
+    "contact": {
+        "phone": "880.759.4249",
+        "servicePhone": "800363054"
+    },
+    "birthday": "2006-16-09",
+    "ip": "44.149.23.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Know next financial law music put oil. Different its explain some force candidate contain. Son while eight point pattern benefit.\nView her dog itself surface. Share oil recognize fly hotel example.",
+        "bio": "Child home white car we ago. Similar mind positive indeed door. Front data ground power onto another election."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
