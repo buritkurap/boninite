@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Miller",
+    "age": 24,
+    "address": {
+        "street": "Walker Greens",
+        "city": "Gallowayshire",
+        "state": "Georgia",
+        "zip": "59531"
+    },
+    "contact": {
+        "phone": "+1-476-887-4048x1934",
+        "servicePhone": "800384726"
+    },
+    "birthday": "2001-22-02",
+    "ip": "99.118.252.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Table pattern fact good surface challenge. Enter subject budget past best study unit.\nPut early safe player benefit. Seven ask sit law west lose civil.",
+        "bio": "Who return themselves medical add. Ability high trial sea have here may young. Customer join school stage."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
