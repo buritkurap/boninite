@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Martinez",
+    "age": 67,
+    "address": {
+        "street": "Harding Ferry",
+        "city": "Lake Michael",
+        "state": "New Mexico",
+        "zip": "34130"
+    },
+    "contact": {
+        "phone": "925-812-1348x6410",
+        "servicePhone": "800941453"
+    },
+    "birthday": "1958-10-05",
+    "ip": "210.159.142.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal condition agent place. Act lay choose sit. Economic argue just.",
+        "bio": "Major quite wall. Might camera follow need among manager worker. Decade purpose similar box a."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
