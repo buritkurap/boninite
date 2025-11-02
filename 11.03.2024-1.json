@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Santos",
+    "age": 12,
+    "address": {
+        "street": "Glover Dale",
+        "city": "New Joshua",
+        "state": "Louisiana",
+        "zip": "85718"
+    },
+    "contact": {
+        "phone": "4646959188",
+        "servicePhone": "800823654"
+    },
+    "birthday": "2013-23-04",
+    "ip": "51.228.73.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer remain deep necessary education may. No thus century goal gun bag around.\nCertain establish sport through letter almost system. Any itself but shake already positive moment everybody.",
+        "bio": "Reduce way history for goal professional attention. Hear type staff. Build major amount explain benefit although she development. Series hope evening nation.\nCoach nothing herself."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
