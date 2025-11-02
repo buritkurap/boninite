@@ -1,0 +1,25 @@
+{
+    "name": "Lucas Stevens",
+    "age": 34,
+    "address": {
+        "street": "Carney Spur",
+        "city": "North Jacob",
+        "state": "Kentucky",
+        "zip": "24524"
+    },
+    "contact": {
+        "phone": "497-315-5337x868",
+        "servicePhone": "800022411"
+    },
+    "birthday": "1991-13-09",
+    "ip": "87.2.78.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection fear her ready present several. Choose soon behavior human piece reach baby.",
+        "bio": "Maintain life building television past. Race if those station market. Miss politics Democrat Congress cause art.\nChoice and left full nor. Keep everybody choice field lawyer likely."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
