@@ -1,0 +1,25 @@
+{
+    "name": "Michael Bryant",
+    "age": 98,
+    "address": {
+        "street": "Douglas Parkway",
+        "city": "Curtisburgh",
+        "state": "North Dakota",
+        "zip": "49193"
+    },
+    "contact": {
+        "phone": "924-426-7367x807",
+        "servicePhone": "800838108"
+    },
+    "birthday": "1927-22-03",
+    "ip": "86.96.192.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed occur help. Tell Democrat direction ok town.\nFront fill suddenly consider room item our. Sister field nation give election evidence possible. General example somebody second else idea local.",
+        "bio": "Report choice behind many. Thing article discuss run their nothing. Half morning building six smile."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
