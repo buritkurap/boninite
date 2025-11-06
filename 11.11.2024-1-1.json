@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Martin",
+    "age": 107,
+    "address": {
+        "street": "Weiss Crescent",
+        "city": "East Justinland",
+        "state": "Indiana",
+        "zip": "72830"
+    },
+    "contact": {
+        "phone": "6654521118",
+        "servicePhone": "800895424"
+    },
+    "birthday": "1918-07-05",
+    "ip": "22.63.214.122",
+    "foo": "bar",
+    "profile": {
+        "about": "First customer heavy specific and science foot. Management executive will many.\nLot son wind above. Likely near push range.",
+        "bio": "Wear water TV per theory rule part. Former traditional main wait identify plant travel."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
